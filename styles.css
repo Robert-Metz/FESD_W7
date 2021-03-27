@@ -1,0 +1,136 @@
+.body{
+    padding:10px;
+    max-width:1200px;
+    margin:auto;
+    border: 5px thin black;
+}
+
+.title{
+    margin:30px;
+    text-align:center;
+    padding:20px;
+    background-color:crimson;
+    border: 3px dotted black;
+    width: 940px;
+    height: 70px;
+    font-size:55px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+}
+
+.title:hover{
+    color:white;
+}
+
+.pageName{
+    color:crimson;
+    margin: 10px;
+    padding:5px;
+    margin-left: 350px;
+    font-size:35px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    border: 5px solid black;
+    width: 300px;
+    text-align:center;
+}
+
+.pageName:hover{
+    color:red;
+    background-color:grey;
+}
+
+.links{
+    margin-bottom:20px;
+    margin-left: 30px;
+    padding:5px;
+    width: 950px;
+    font-size:25px;
+    font-family:'Times New Roman', Times, serif;
+    border: 3px dotted crimson;
+    text-align: center;
+}
+
+.imageContact{
+    height:350px;
+    float:none;
+    margin-left:100px;
+    border:15px red;
+    overflow:hidden;
+    clear:both;
+}
+
+.imageTest{
+    height:350px;
+    float:none;
+    margin-left:200px;
+    border:15px red;
+    overflow:hidden;
+    clear:both;
+
+}
+
+.imageHome{
+    height:350px;
+    float:none;
+    margin-left:200px;
+    border:15px red;
+    overflow:hidden;
+    clear:both;
+
+}
+.test{
+    border-top:5px solid crimson;
+    width: 750px;
+    margin-left:150px;
+}
+
+.intro{
+    margin-left:150px;
+}
+
+.contactTable{
+    margin-left: 400px;
+    padding: 10px;
+    border: 3px solid green;
+}
+
+#newsletter{
+    margin-top:10px;
+    padding-left:100px;
+    margin-left: 100px;
+    border-top:5px solid crimson;
+    width: 700px;
+}
+
+
+.headerHome{
+    font-size:30px;
+    padding-left:90px;
+    margin-left:40px;
+    border-bottom:5px solid black;
+    border-top:5px solid black;
+    width: 500px;
+    color:crimson;
+}
+
+.question{
+    font-size:20px;
+    border-bottom:3px solid black;
+
+}
+
+.contactHeader{
+    font-size:20px;
+    border-bottom:1px solid black;
+}
+
+p {
+    color:black;
+    font-weight:bolder;
+}
+
+li {
+    color: black;
+    font-weight:bold;
+}
